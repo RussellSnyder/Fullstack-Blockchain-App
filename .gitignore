@@ -1,0 +1,8 @@
+/dist
+/logs
+/npm-debug.log
+
+/backend/node_modules
+/frontend/node_modules
+.DS_Store
+.idea/

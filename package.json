@@ -1,0 +1,19 @@
+{
+  "name": "russell-snyder-coding-challenge",
+  "version": "1.0.0",
+  "description": "full stack coding challenge for bitwala",
+  "main": "backend/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tech-Recruiting-Bitwala/Russell-Snyder-Coding-Challenge.git"
+  },
+  "author": "Russell Snyder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tech-Recruiting-Bitwala/Russell-Snyder-Coding-Challenge/issues"
+  },
+  "homepage": "https://github.com/Tech-Recruiting-Bitwala/Russell-Snyder-Coding-Challenge#readme"
+}
